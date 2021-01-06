@@ -1,0 +1,7 @@
+C:\Users\tim94\Documents\_VisualStudioProjects\3.1_Исходники_Модуль_3\Theme_03\Lesson_08\Homework_Theme_03\obj\Debug\Homework_Theme_03.csprojAssemblyReference.cache
+C:\Users\tim94\Documents\_VisualStudioProjects\3.1_Исходники_Модуль_3\Theme_03\Lesson_08\Homework_Theme_03\obj\Debug\Homework_Theme_03.csproj.CoreCompileInputs.cache
+C:\Users\tim94\Documents\_VisualStudioProjects\3.1_Исходники_Модуль_3\Theme_03\Lesson_08\Homework_Theme_03\bin\Debug\Homework_Theme_03.exe.config
+C:\Users\tim94\Documents\_VisualStudioProjects\3.1_Исходники_Модуль_3\Theme_03\Lesson_08\Homework_Theme_03\bin\Debug\Homework_Theme_03.exe
+C:\Users\tim94\Documents\_VisualStudioProjects\3.1_Исходники_Модуль_3\Theme_03\Lesson_08\Homework_Theme_03\bin\Debug\Homework_Theme_03.pdb
+C:\Users\tim94\Documents\_VisualStudioProjects\3.1_Исходники_Модуль_3\Theme_03\Lesson_08\Homework_Theme_03\obj\Debug\Homework_Theme_03.exe
+C:\Users\tim94\Documents\_VisualStudioProjects\3.1_Исходники_Модуль_3\Theme_03\Lesson_08\Homework_Theme_03\obj\Debug\Homework_Theme_03.pdb
